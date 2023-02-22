@@ -1,2 +1,8 @@
 [Array-of-string-to-array-of-Number](./Array-of-string-to-array-of-number.js)
 ---
+[check-if-array-contains-a-given-number](./Check-if-array-contains-a-given-number.js)
+---
+[convert-all-array-items-to-string](./Convert-all-array-items-to-string.js)
+---
+[Return-types](./Return-types.js)
+---
