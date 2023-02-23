@@ -6,3 +6,5 @@
 ---
 [Return-types](./Return-types.js)
 ---
+[find-the-index](./Find-the-index.js)
+---
