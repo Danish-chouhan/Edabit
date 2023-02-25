@@ -1,3 +1,4 @@
-[vary-easy-Array](./very-easy-Array/)
+[Array](./Array/Readme.md)
 ---
-[very-easy-Object](./very-easy-object/)
+[Object](./Object/Readme.md)
+---
